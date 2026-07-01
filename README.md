@@ -5,6 +5,6 @@
 </p>
 
 Official implementation of "LogicIR: Logic Gate Networks for Image Restoration [ECCV 2026]".
-(Paper @ [ArXiv](https://arxiv.org/abs/)).
+(Paper @ [ArXiv](https://arxiv.org/abs/2606.26609)).
 
 >🛠️ The code will be available soon.
