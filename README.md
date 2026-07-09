@@ -2,7 +2,7 @@
 
 ![logicir_logo](logicir_logo.png)
 
-This repository provides the official implementation of **"LogicIR: Logic Gate Networks for Image Restoration"**.
+This repository provides the official implementation of [**"LogicIR: Logic Gate Networks for Image Restoration"**](https://arxiv.org/abs/2606.26609).
 
 Our implementation builds upon [difflogic](https://github.com/Felix-Petersen/difflogic). On top of it, we implement the convolutional differentiable logic gate network architecture described in [Convolutional Differentiable Logic Gate Networks](https://arxiv.org/abs/2411.04732).
 
