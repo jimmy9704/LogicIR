@@ -232,7 +232,8 @@ CUDA_VISIBLE_DEVICES=0 python ./experiments/rotation.py \
 
 We provide a compact `--tiny True` option, referred to as **LogicIR-S-Tiny**, for resource-constrained settings. This lightweight variant replaces the full multi-scale LogicIR-S architecture with a sequential logic-gate network and uses a narrower internal feature width, reducing hardware resource usage while preserving restoration capability.
 
-LogicIR-S-Tiny is particularly suitable for small FPGA devices, where area, memory, and latency are constrained and a favorable performance-efficiency trade-off is important. We thank the authors of [EcoLogic](https://github.com/matheusmaldaner/EcoLogic) for releasing their FPGA implementation, which provides a useful reference for deploying logic-gate networks on FPGA devices.
+LogicIR-S-Tiny is particularly suitable for small FPGA devices, where area, memory, and latency are constrained and a favorable performance-efficiency trade-off is important. We thank the [EcoLogic](https://github.com/matheusmaldaner/EcoLogic) project, which provides a useful reference for FPGA implementation.
+
 
 ### 📌 Citation
 
