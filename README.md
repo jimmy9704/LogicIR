@@ -42,7 +42,7 @@ final_trained_model/
 ├── logicir_s_denoising_std25.pth
 ├── logicir_s_r4_denoising_std25.pth
 ├── logicir_l_denoising_std25.pth
-└──logicir_s_r4_denoising_std25_tiny.pth
+└── logicir_s_r4_denoising_std25_tiny.pth
 ```
 
 Then run:
@@ -111,7 +111,7 @@ final_trained_model/
 ├── logicir_s_denoising_std25.pth
 ├── logicir_s_r4_denoising_std25.pth
 ├── logicir_l_denoising_std25.pth
-└──logicir_s_r4_denoising_std25_tiny.pth
+└── logicir_s_r4_denoising_std25_tiny.pth
 ```
 
 Then run:
